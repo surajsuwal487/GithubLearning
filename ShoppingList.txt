@@ -6,3 +6,5 @@ banana
 mango
 carrot
 raddish
+realjuice
+cucumber
